@@ -1,0 +1,22 @@
+{
+  "name": "Music Player - تطبيق الموسيقى",
+  "short_name": "Music Player",
+  "description": "تطبيق موسيقى حديث يدعم التشغيل عبر الإنترنت وبدون اتصال",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#ec4899",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/src/assets/music_app_logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["music", "entertainment"],
+  "lang": "ar",
+  "dir": "rtl"
+}
+
